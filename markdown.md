@@ -26,3 +26,5 @@ function demo (){
 import os
 print 'haha'
 ```
+## 插入图片
+![](http://www.plcxyy.com/uploads/140408/1-14040Q32S4913.jpg)
