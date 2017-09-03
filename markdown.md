@@ -16,7 +16,7 @@
 
 ## 代码块的实现
 ```javascript
--- 声明一个变量
+# 声明一个变量
 var aa = 'haha'
 function demo (){
   console.log(aa)
