@@ -19,6 +19,13 @@
     5. W+ : 读写方式打开，但是依旧会清空文件
     6. a+ : 追加方式打开，可读可写，如果文件不存在，则创建文件
 
+>文件的属性
+
+    1. file.closed 判断文件是否关闭，返回布尔值
+    2. file.mode 返回文件的打开模式
+    3. file.name 返回文件的name
+    4. file.softspace
+
 ## 检测屏幕输入的 input 和 raw_input
 ```Python
 bufInput = input("请输入关键字：")
