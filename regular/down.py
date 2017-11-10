@@ -5,7 +5,6 @@ import urllib2
 
 req = urllib2.urlopen('http://www.yeitu.com/')
 buf = req.read()
-
 list = re.findall(r'data-echo=\"(.*(jpg|png))',buf)
 
 #print list[0][0]
